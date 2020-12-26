@@ -13,7 +13,7 @@ Details can be found in the official [PACE 2018 report](https://doi.org/10.4230/
 
 *Track3* contrains instances with larger instances for the **heuristic** track (note : there was a problem with instance58 and was therefore removed from the set).
 
-More informations are on the [PACE official website](https://pacechallenge.org/2018/steiner-tree/)
+More informations are on the [PACE official website](https://pacechallenge.org/2018/steiner-tree/).
 
 The instances are released under the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
