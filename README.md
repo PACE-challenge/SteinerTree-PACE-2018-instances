@@ -7,11 +7,11 @@ Details can be found in the official [PACE 2018 report](https://doi.org/10.4230/
 
 ## Tracks
 
-*Track1* contains instances for the Exact with low number of terminals track.
+*Track1* contains instances for the **exact with low number of terminals** track.
 
-*Track2* contains instances for the exact with low treewidth track.
+*Track2* contains instances for the **exact with low treewidth** track.
 
-*Track3* contrains instances with larger instances for the heuristic track (note : there was a problem with instance58 and was therefore removed from the set).
+*Track3* contrains instances with larger instances for the **heuristic** track (note : there was a problem with instance58 and was therefore removed from the set).
 
 More informations are on the [PACE official website](https://pacechallenge.org/2018/steiner-tree/)
 
